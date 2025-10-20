@@ -1,3 +1,5 @@
+NEW! --> [📜 Changelog](CHANGELOG.md)
+
 "I did it because I was bored." - Ryuk
 
 <img width="1504" height="848" alt="Screenshot 2025-10-17 at 3 40 56 PM" src="https://github.com/user-attachments/assets/f8a66305-ac9a-457f-972d-d351c678efd2" />
